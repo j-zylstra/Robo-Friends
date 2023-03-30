@@ -2,8 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import 'tachyons';
-import {robots} from './robots.js';
-import CardList from './components/CardList.js';
 import App from './containers/App';
 
 
